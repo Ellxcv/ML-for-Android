@@ -1,0 +1,12 @@
+<!-- themes_night.xml (Dark Mode) -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryLight</item>
+        <item name="android:colorBackground">@color/colorBackgroundDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimaryDark</item>
+    </style>
+
+    <style name="ScreenBackground">
+        <item name="android:background">@color/colorBackgroundDark</item>
+    </style>
+</resources>

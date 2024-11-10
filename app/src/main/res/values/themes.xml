@@ -1,0 +1,12 @@
+<!-- themes.xml (Light Mode) -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimaryDark</item>
+        <item name="android:colorBackground">@color/colorBackgroundLight</item>
+        <item name="colorOnPrimary">@color/colorOnPrimaryLight</item>
+    </style>
+
+    <style name="ScreenBackground">
+        <item name="android:background">@color/colorBackgroundLight</item>
+    </style>
+</resources>

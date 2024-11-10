@@ -1,0 +1,9 @@
+<!-- colors.xml -->
+<resources>
+    <color name="colorPrimaryLight">#6200EE</color>
+    <color name="colorPrimaryDark">#BB86FC</color>
+    <color name="colorBackgroundLight">#FFFFFF</color>
+    <color name="colorBackgroundDark">#121212</color>
+    <color name="colorOnPrimaryLight">#FFFFFF</color>
+    <color name="colorOnPrimaryDark">#000000</color>
+</resources>
